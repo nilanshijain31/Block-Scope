@@ -9,5 +9,5 @@
     console.log(c);
     }
     console.log(a);
-    console.log(b);             // can not access let outside the block scope
-    console.log(c);            // can not access const outside the block scope
+    console.log(b);            // can not access let outside the block scope
+    console.log(c);           // can not access const outside the block scope
